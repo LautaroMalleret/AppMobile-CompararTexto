@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">comparar textos</string>
+    <string name="label_first_text">Primer texto</string>
+    <string name="label_second_text">Segundo texto</string>
+    <string name="label_input_text">Ingresar Texto</string>
+    <string name="text_buttom_delete">Borrar todo</string>
+    <string name="text_check">Diferenciar entre mayusculas y minusculas</string>
+    <string name="text_buttom_comparation">Comparar</string>
+    <string name="label_equal_text">Los dos textos son iguales</string>
+    <string name="label_diferent_text">Los textos son distintos</string>
+</resources>
